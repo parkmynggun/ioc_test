@@ -1,17 +1,171 @@
-# 2025-09-03T10:54:42.974042
+# 2025-09-04T09:25:10.263082
 import vitis
 
 client = vitis.create_client()
 client.set_workspace(path="soc2024_2")
 
-platform = client.create_platform_component(name = "platform_btn_fnd",hw_design = "$COMPONENT_LOCATION/../../test_18/soc_btn_fnd_wrapper.xsa",os = "standalone",cpu = "microblaze_riscv_0",domain_name = "standalone_microblaze_riscv_0")
+platform = client.get_component(name="platform_btn_fnd")
+status = platform.build()
 
-comp = client.create_app_component(name="app_btn_fnd",platform = "$COMPONENT_LOCATION/../platform_btn_fnd/export/platform_btn_fnd/platform_btn_fnd.xpfm",domain = "standalone_microblaze_riscv_0",template = "hello_world")
+comp = client.get_component(name="app_btn_fnd")
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+platform = client.get_component(name="platform_led_seg7")
+status = platform.build()
+
+comp = client.get_component(name="app_seg7_led")
+comp.build()
+
+status = platform.build()
+
+comp.build()
 
 platform = client.get_component(name="platform_btn_fnd")
 status = platform.build()
 
 comp = client.get_component(name="app_btn_fnd")
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+platform = client.get_component(name="platform_led_seg7")
+status = platform.build()
+
+comp = client.get_component(name="app_seg7_led")
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
+comp.build()
+
+status = platform.build()
+
 comp.build()
 
 status = platform.build()
