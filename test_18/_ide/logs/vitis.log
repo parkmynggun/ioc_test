@@ -1,0 +1,13 @@
+09:00:44 INFO  : updated workspace path: /home/user11/work/test_18
+09:00:44 INFO  : created .gitignore file for the project /home/user11/work/test_18
+09:00:44 INFO  : Marking the target connection as default Local
+09:00:44 INFO  : Marking the target connection as default Linux Agent
+09:00:44 INFO  : Marking the target connection as default XRTServer
+09:00:44 INFO  : Marking the target connection as default LinuxEmulation
+09:00:44 INFO  : Marking the target connection as default QEMU
+09:00:44 INFO  : bash, -c, source /home/user11/tools/Vitis/2024.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /home/user11/tools/Vitis/2024.2/data/embeddedsw/scripts/pyesw//repo.py -st   /home/user11/tools/Vitis/2024.2/data/embeddedsw && deactivate
+09:00:46 INFO  : Successfully created repository data at /home/user11/work/test_18/_ide/.wsdata
+09:00:46 INFO  : bash, -c, source /home/user11/tools/Vitis/2024.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /home/user11/tools/Vitis/2024.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_user1113757978584261130918 -r /home/user11/work/test_18/_ide/.wsdata/.repo.yaml && deactivate
+09:00:47 INFO  : Embedded Template List generated successfully
+09:01:02 INFO  : connection terminated
+09:01:02 INFO  : connection terminated

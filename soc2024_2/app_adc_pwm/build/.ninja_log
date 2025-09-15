@@ -1,0 +1,7 @@
+# ninja log v5
+8	181	1757575417189365560	CMakeFiles/app_adc_pwm.elf.dir/platform.c.obj	41a4aedb88b9980f
+299	435	1757575417421392622	app_adc_pwm.elf	ca87f973fd7cda3c
+5	299	1757575417311363394	CMakeFiles/app_adc_pwm.elf.dir/helloworld.c.obj	87e1a2f223cb7762
+3	122	1757575481592228545	CMakeFiles/app_adc_pwm.elf.dir/platform.c.obj	41a4aedb88b9980f
+0	169	1757575481641227684	CMakeFiles/app_adc_pwm.elf.dir/helloworld.c.obj	87e1a2f223cb7762
+169	356	1757575481757419797	app_adc_pwm.elf	ca87f973fd7cda3c

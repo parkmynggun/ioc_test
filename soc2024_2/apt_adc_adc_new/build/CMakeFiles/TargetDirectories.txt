@@ -1,0 +1,3 @@
+/home/user11/work/soc2024_2/apt_adc_adc_new/build/CMakeFiles/apt_adc_adc_new.elf.dir
+/home/user11/work/soc2024_2/apt_adc_adc_new/build/CMakeFiles/edit_cache.dir
+/home/user11/work/soc2024_2/apt_adc_adc_new/build/CMakeFiles/rebuild_cache.dir

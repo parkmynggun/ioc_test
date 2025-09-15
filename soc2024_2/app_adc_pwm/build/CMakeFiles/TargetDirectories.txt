@@ -1,0 +1,3 @@
+/home/user11/work/soc2024_2/app_adc_pwm/build/CMakeFiles/app_adc_pwm.elf.dir
+/home/user11/work/soc2024_2/app_adc_pwm/build/CMakeFiles/edit_cache.dir
+/home/user11/work/soc2024_2/app_adc_pwm/build/CMakeFiles/rebuild_cache.dir

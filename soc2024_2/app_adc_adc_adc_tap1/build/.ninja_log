@@ -1,0 +1,7 @@
+# ninja log v5
+0	128	1757550138992618777	CMakeFiles/app_adc_adc_adc_tap1.elf.dir/helloworld.c.obj	11882214128a3511
+1	130	1757550138995618730	CMakeFiles/app_adc_adc_adc_tap1.elf.dir/platform.c.obj	fa3cd0e17787b6bb
+130	251	1757550139084347492	app_adc_adc_adc_tap1.elf	67beb86bbc7c97d0
+1	96	1757568440949597711	CMakeFiles/app_adc_adc_adc_tap1.elf.dir/platform.c.obj	fa3cd0e17787b6bb
+1	111	1757568440963597468	CMakeFiles/app_adc_adc_adc_tap1.elf.dir/helloworld.c.obj	11882214128a3511
+111	240	1757568441062859187	app_adc_adc_adc_tap1.elf	67beb86bbc7c97d0

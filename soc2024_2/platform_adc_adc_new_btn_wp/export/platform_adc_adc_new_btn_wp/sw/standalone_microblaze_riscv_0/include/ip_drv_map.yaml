@@ -1,0 +1,12 @@
+axi_uartlite_0:
+- axi_uartlite
+- uartlite
+myip_adc_new_0:
+- myip_adc_new
+- None
+myip_btn_0:
+- myip_btn
+- None
+myip_fnd_0:
+- myip_fnd
+- None

@@ -1,0 +1,3 @@
+/home/user11/work/soc2024_2/app_iic_lcd/build/CMakeFiles/app_iic_lcd.elf.dir
+/home/user11/work/soc2024_2/app_iic_lcd/build/CMakeFiles/edit_cache.dir
+/home/user11/work/soc2024_2/app_iic_lcd/build/CMakeFiles/rebuild_cache.dir

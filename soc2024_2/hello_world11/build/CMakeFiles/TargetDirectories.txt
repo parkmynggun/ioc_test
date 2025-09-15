@@ -1,0 +1,3 @@
+/home/user11/work/soc2024_2/hello_world11/build/CMakeFiles/hello_world11.elf.dir
+/home/user11/work/soc2024_2/hello_world11/build/CMakeFiles/edit_cache.dir
+/home/user11/work/soc2024_2/hello_world11/build/CMakeFiles/rebuild_cache.dir

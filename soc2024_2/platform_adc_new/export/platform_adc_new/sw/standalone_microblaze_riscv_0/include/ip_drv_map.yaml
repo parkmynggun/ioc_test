@@ -1,0 +1,9 @@
+axi_uartlite_0:
+- axi_uartlite
+- uartlite
+myip_fnd_0:
+- myip_fnd
+- None
+xadc_wiz_0:
+- xadc_wiz
+- sysmon

@@ -1,0 +1,5 @@
+# ninja log v5
+1	79	1757050566212347360	CMakeFiles/app_dht11_seg7.elf.dir/platform.c.obj	4d3c097c5831f791
+92	198	1757050566301691211	app_dht11_seg7.elf	32752cbdecdb9ee1
+1	92	1757050566225347071	CMakeFiles/app_dht11_seg7.elf.dir/helloworld.c.obj	b179c8cece35d92f
+1	82	1757051151149411860	CMakeFiles/app_dht11_seg7.elf.dir/platform.c.obj	4d3c097c5831f791

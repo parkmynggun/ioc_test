@@ -1,0 +1,1 @@
+{"generate.platform":[{"uri":"/home/user11/work/soc2024_2/platform_adc_uart_bod19200/vitis-comp.json","md5":"37c6e408e658bf969934c39f2e96f4a2"},{"uri":"/home/user11/work/soc2024_2/platform_adc_uart_bod19200/microblaze_riscv_0/standalone_microblaze_riscv_0/bsp/bsp.yaml","md5":"1849226d686b7dbd13ca99d23e52f258"}]}

@@ -1,0 +1,3 @@
+/home/user11/work/soc2024_2/app_stop_watch/build/CMakeFiles/app_stop_watch.elf.dir
+/home/user11/work/soc2024_2/app_stop_watch/build/CMakeFiles/edit_cache.dir
+/home/user11/work/soc2024_2/app_stop_watch/build/CMakeFiles/rebuild_cache.dir

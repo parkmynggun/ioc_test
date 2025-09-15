@@ -1,0 +1,3 @@
+/home/user11/work/soc2024_2/app_dht/build/CMakeFiles/app_dht.elf.dir
+/home/user11/work/soc2024_2/app_dht/build/CMakeFiles/edit_cache.dir
+/home/user11/work/soc2024_2/app_dht/build/CMakeFiles/rebuild_cache.dir

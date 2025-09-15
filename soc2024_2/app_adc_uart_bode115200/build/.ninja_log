@@ -1,0 +1,7 @@
+# ninja log v5
+1	197	1757746345232998068	CMakeFiles/app_adc_uart_bode115200.elf.dir/helloworld.c.obj	bee0d5c4f9e8c851
+1	143	1757746345179999295	CMakeFiles/app_adc_uart_bode115200.elf.dir/platform.c.obj	eae2ca89cf8d3616
+197	311	1757746345318852740	app_adc_uart_bode115200.elf	7731d9e9584673a2
+1	81	1757820038020124816	CMakeFiles/app_adc_uart_bode115200.elf.dir/platform.c.obj	eae2ca89cf8d3616
+1	107	1757820038047124282	CMakeFiles/app_adc_uart_bode115200.elf.dir/helloworld.c.obj	bee0d5c4f9e8c851
+107	225	1757820038121122819	app_adc_uart_bode115200.elf	7731d9e9584673a2

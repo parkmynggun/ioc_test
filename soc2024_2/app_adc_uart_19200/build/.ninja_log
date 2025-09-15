@@ -1,0 +1,4 @@
+# ninja log v5
+2	105	1757746026580382639	CMakeFiles/app_adc_uart_19200.elf.dir/platform.c.obj	169cdb25e618086
+1	114	1757746026590382492	CMakeFiles/app_adc_uart_19200.elf.dir/helloworld.c.obj	3ed565b6088a293b
+114	252	1757746026690593646	app_adc_uart_19200.elf	6b7096613a9dc4d5

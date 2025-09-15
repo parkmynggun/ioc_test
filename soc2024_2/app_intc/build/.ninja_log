@@ -1,0 +1,7 @@
+# ninja log v5
+1	128	1757654845284009800	CMakeFiles/app_intc.elf.dir/helloworld.c.obj	eb145aa710024c13
+128	245	1757654845371354808	app_intc.elf	881cf56676f779da
+3	90	1757654845246010739	CMakeFiles/app_intc.elf.dir/platform.c.obj	674d41b39fcd7cf0
+1	67	1757894204913407523	CMakeFiles/app_intc.elf.dir/platform.c.obj	674d41b39fcd7cf0
+0	91	1757894204937578832	CMakeFiles/app_intc.elf.dir/helloworld.c.obj	eb145aa710024c13
+91	201	1757894205019671729	app_intc.elf	881cf56676f779da

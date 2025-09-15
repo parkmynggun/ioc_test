@@ -1,0 +1,3 @@
+/home/user11/work/soc2024_2/app_lcd_dht11_1/build/CMakeFiles/app_lcd_dht11_1.elf.dir
+/home/user11/work/soc2024_2/app_lcd_dht11_1/build/CMakeFiles/edit_cache.dir
+/home/user11/work/soc2024_2/app_lcd_dht11_1/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/user11/work/soc2024_2/app_pwm_rgb/build/CMakeFiles/app_pwm_rgb.elf.dir
+/home/user11/work/soc2024_2/app_pwm_rgb/build/CMakeFiles/edit_cache.dir
+/home/user11/work/soc2024_2/app_pwm_rgb/build/CMakeFiles/rebuild_cache.dir

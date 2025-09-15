@@ -1,0 +1,7 @@
+# ninja log v5
+115	229	1757745245028913656	app_adc_new_bod_38400.elf	29688501dbaf46d7
+1	77	1757745244910245054	CMakeFiles/app_adc_new_bod_38400.elf.dir/platform.c.obj	e45f711a7700ddd5
+0	114	1757745244948244446	CMakeFiles/app_adc_new_bod_38400.elf.dir/helloworld.c.obj	be33b9fc33456ed0
+2	128	1757893972982353083	CMakeFiles/app_adc_new_bod_38400.elf.dir/platform.c.obj	e45f711a7700ddd5
+1	150	1757893973004352619	CMakeFiles/app_adc_new_bod_38400.elf.dir/helloworld.c.obj	be33b9fc33456ed0
+151	265	1757893973089107492	app_adc_new_bod_38400.elf	29688501dbaf46d7

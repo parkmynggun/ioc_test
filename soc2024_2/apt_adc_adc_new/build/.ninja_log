@@ -1,0 +1,7 @@
+# ninja log v5
+95	228	1757484941436555425	apt_adc_adc_new.elf	86da176dc377d5b5
+2	75	1757484941312808280	CMakeFiles/apt_adc_adc_new.elf.dir/platform.c.obj	b4dbaae7d93ee7f7
+1	95	1757484941331807919	CMakeFiles/apt_adc_adc_new.elf.dir/helloworld.c.obj	d063762dfe5ea1f7
+0	80	1757577325730176940	CMakeFiles/apt_adc_adc_new.elf.dir/platform.c.obj	b4dbaae7d93ee7f7
+0	98	1757577325748176755	CMakeFiles/apt_adc_adc_new.elf.dir/helloworld.c.obj	d063762dfe5ea1f7
+98	193	1757577325816996923	apt_adc_adc_new.elf	86da176dc377d5b5

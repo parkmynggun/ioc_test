@@ -1,0 +1,7 @@
+# ninja log v5
+3	94	1757403378005396809	CMakeFiles/app_iic_lcd.elf.dir/platform.c.obj	560b7af8d100aba0
+134	247	1757403378129661401	app_iic_lcd.elf	b5da4ed0459c22f4
+0	134	1757403378045395554	CMakeFiles/app_iic_lcd.elf.dir/helloworld.c.obj	fda48cd57052f02e
+1	89	1757403410109389926	CMakeFiles/app_iic_lcd.elf.dir/platform.c.obj	560b7af8d100aba0
+1	140	1757403410161388296	CMakeFiles/app_iic_lcd.elf.dir/helloworld.c.obj	fda48cd57052f02e
+140	270	1757403410260084038	app_iic_lcd.elf	b5da4ed0459c22f4

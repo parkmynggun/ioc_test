@@ -1,0 +1,7 @@
+# ninja log v5
+1	76	1757468757639586089	CMakeFiles/app_stop_watch.elf.dir/platform.c.obj	35f4a1b2030bcb22
+129	246	1757468757779586492	app_stop_watch.elf	46e5338ffcafa073
+1	129	1757468757692586242	CMakeFiles/app_stop_watch.elf.dir/helloworld.c.obj	780ecf9b0563ba68
+1	90	1757468793133657760	CMakeFiles/app_stop_watch.elf.dir/platform.c.obj	35f4a1b2030bcb22
+0	106	1757468793149657779	CMakeFiles/app_stop_watch.elf.dir/helloworld.c.obj	780ecf9b0563ba68
+107	226	1757468793237657882	app_stop_watch.elf	46e5338ffcafa073

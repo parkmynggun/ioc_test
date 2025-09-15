@@ -1,0 +1,7 @@
+# ninja log v5
+1	118	1757571369757916621	CMakeFiles/app_pwm_rgb.elf.dir/helloworld.c.obj	813abb93fc556fde
+118	229	1757571369843563139	app_pwm_rgb.elf	bdec95aa83e75ace
+1	78	1757571369723916858	CMakeFiles/app_pwm_rgb.elf.dir/platform.c.obj	fca59b594bb05e41
+1	126	1757637391901442787	CMakeFiles/app_pwm_rgb.elf.dir/platform.c.obj	fca59b594bb05e41
+1	150	1757637391925442513	CMakeFiles/app_pwm_rgb.elf.dir/helloworld.c.obj	813abb93fc556fde
+150	267	1757637392011382114	app_pwm_rgb.elf	bdec95aa83e75ace

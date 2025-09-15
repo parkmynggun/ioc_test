@@ -1,0 +1,3 @@
+/home/user11/work/soc2024_2/app_adc_uart_19200/build/CMakeFiles/app_adc_uart_19200.elf.dir
+/home/user11/work/soc2024_2/app_adc_uart_19200/build/CMakeFiles/edit_cache.dir
+/home/user11/work/soc2024_2/app_adc_uart_19200/build/CMakeFiles/rebuild_cache.dir
