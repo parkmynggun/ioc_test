@@ -71,7 +71,7 @@ btn_data = XGpio_DiscreteRead(&btn_inst, BTN_CHANNEL);
 fnd_cntr[0] = data;
 
 
-    xil_printf("Button: %x, Data: %d\n", btn_data, data);
+printf("Button: %x, Data: %d\n", btn_data, data);
   }
   cleanup_platform();
   return 0;

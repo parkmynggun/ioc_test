@@ -1,7 +1,7 @@
 # ninja log v5
-1	98	1757637438291913326	CMakeFiles/app_adc_new_new_btn111111111.elf.dir/platform.c.obj	17162e564e9596ed
-0	130	1757637438324912950	CMakeFiles/app_adc_new_new_btn111111111.elf.dir/helloworld.c.obj	66d1d28aa596c39c
-131	245	1757637438411846169	app_adc_new_new_btn111111111.elf	468a6542f1c86ec2
-2	76	1757659759378206722	CMakeFiles/app_adc_new_new_btn111111111.elf.dir/platform.c.obj	17162e564e9596ed
-1	153	1757659759452205097	CMakeFiles/app_adc_new_new_btn111111111.elf.dir/helloworld.c.obj	66d1d28aa596c39c
-154	250	1757659759524776959	app_adc_new_new_btn111111111.elf	468a6542f1c86ec2
+1	104	1757986428756675005	CMakeFiles/app_adc_new_new_btn111111111.elf.dir/platform.c.obj	17162e564e9596ed
+1	93	1757983545377263795	CMakeFiles/app_adc_new_new_btn111111111.elf.dir/helloworld.c.obj	66d1d28aa596c39c
+93	208	1757983545454449011	app_adc_new_new_btn111111111.elf	468a6542f1c86ec2
+2	121	1757986434004638145	CMakeFiles/app_adc_new_new_btn111111111.elf.dir/platform.c.obj	17162e564e9596ed
+0	142	1757986434024638005	CMakeFiles/app_adc_new_new_btn111111111.elf.dir/helloworld.c.obj	66d1d28aa596c39c
+142	252	1757986434097865227	app_adc_new_new_btn111111111.elf	468a6542f1c86ec2

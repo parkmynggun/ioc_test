@@ -1,0 +1,16 @@
+{
+  "name": "app_adc_uart_bode115200",
+  "type": "HOST",
+  "platform": "platform_adc_uart_new_bod115200",
+  "domain": "standalone_microblaze_riscv_0",
+  "cpuInstance": "microblaze_riscv_0",
+  "cpuType": "microblaze_riscv",
+  "os": "standalone",
+  "configuration": {
+    "componentType": "HOST",
+    "hostToolchainConfigurations": []
+  },
+  "domainRealName": "standalone_microblaze_riscv_0",
+  "applicationFlow": "EMBEDDED",
+  "template": "hello_world"
+}

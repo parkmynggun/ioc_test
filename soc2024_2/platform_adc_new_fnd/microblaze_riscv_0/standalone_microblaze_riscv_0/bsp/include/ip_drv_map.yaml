@@ -1,0 +1,9 @@
+axi_uartlite_0:
+- axi_uartlite
+- uartlite
+myip_adc_cnt_0:
+- myip_adc_cnt
+- None
+myip_fnd_0:
+- myip_fnd
+- None

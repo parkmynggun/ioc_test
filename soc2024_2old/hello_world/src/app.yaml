@@ -1,4 +1,0 @@
-domain_path: /home/user11/work/soc2024_2/platform_hi/export/platform_hi/sw/standalone_microblaze_riscv_0
-app_src_dir: /home/user11/tools/Vitis/2024.2/data/embeddedsw/lib/sw_apps/hello_world
-template: hello_world
-lang: c
