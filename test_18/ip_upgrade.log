@@ -1,0 +1,789 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Thu Sep 11 11:48:02 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_pwm_led_myip_pwm_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of soc_pwm_led_myip_pwm_1_0_0 (user.org:user:myip_pwm_1:1.0) from (Rev. 4) to (Rev. 5)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Thu Sep 11 11:46:21 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_pwm_led_myip_pwm_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of soc_pwm_led_myip_pwm_0_0 (user.org:user:myip_pwm:1.0) from (Rev. 2) to (Rev. 3)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Thu Sep 11 11:40:38 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_pwm_led_myip_pwm_2_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of soc_pwm_led_myip_pwm_2_0_0 (user.org:user:myip_pwm_2:1.0) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Thu Sep 11 11:37:11 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_pwm_led_myip_pwm_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of soc_pwm_led_myip_pwm_1_0_0 (user.org:user:myip_pwm_1:1.0) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Thu Sep 11 11:27:22 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_pwm_led_myip_pwm_2_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of soc_pwm_led_myip_pwm_2_0_0 (user.org:user:myip_pwm_2:1.0 (Rev. 3)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Thu Sep 11 11:25:54 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_pwm_led_myip_pwm_2_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of soc_pwm_led_myip_pwm_2_0_0 (user.org:user:myip_pwm_2:1.0) from (Rev. 1) to (Rev. 3)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'soc_pwm_led_myip_pwm_2_0_0'. These changes may impact your design.
+
+
+-Upgrade has added port 'pwm_2'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Thu Sep 11 11:15:52 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_pwm_led_myip_pwm_1_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of soc_pwm_led_myip_pwm_1_0_0 (user.org:user:myip_pwm_1:1.0) from (Rev. 1) to (Rev. 3)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'soc_pwm_led_myip_pwm_1_0_0'. These changes may impact your design.
+
+
+-Upgrade has added port 'pwm_1'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Thu Sep 11 08:25:18 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_adc_adc_new_myip_btn_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of soc_adc_adc_new_myip_btn_0_0 (user.org:user:myip_btn:1.0) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Wed Sep 10 16:50:01 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_adc_adc_new_myip_btn_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of soc_adc_adc_new_myip_btn_0_0 (user.org:user:myip_btn:1.0) from (Rev. 2) to (Rev. 3)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Wed Sep 10 15:40:48 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_adc_new_myip_adc_new_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of soc_adc_new_myip_adc_new_0_0 (user.org:user:myip_adc_new:1.0) from (Rev. 4) to (Rev. 6)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'soc_adc_new_myip_adc_new_0_0'. These changes may impact your design.
+
+
+-Upgrade has added port 'vauxn15'
+
+-Upgrade has added port 'vauxn7'
+
+-Upgrade has added port 'vauxp15'
+
+-Upgrade has added port 'vauxp7'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Wed Sep 10 15:40:46 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_adc_adc_new_myip_adc_new_0_1'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of soc_adc_adc_new_myip_adc_new_0_1 (user.org:user:myip_adc_new:1.0) from (Rev. 4) to (Rev. 6)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'soc_adc_adc_new_myip_adc_new_0_1'. These changes may impact your design.
+
+
+-Upgrade has added port 'vauxn15'
+
+-Upgrade has added port 'vauxn7'
+
+-Upgrade has added port 'vauxp15'
+
+-Upgrade has added port 'vauxp7'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Wed Sep 10 14:26:47 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_adc_new_myip_adc_new_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of soc_adc_new_myip_adc_new_0_0 (user.org:user:myip_adc_new:1.0) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Wed Sep 10 14:26:46 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_adc_adc_new_myip_adc_new_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of soc_adc_adc_new_myip_adc_new_0_1 (user.org:user:myip_adc_new:1.0) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Wed Sep 10 14:17:00 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_adc_new_myip_adc_new_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of soc_adc_new_myip_adc_new_0_0 (user.org:user:myip_adc_new:1.0) from (Rev. 2) to (Rev. 3)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Wed Sep 10 14:16:59 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_adc_adc_new_myip_adc_new_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of soc_adc_adc_new_myip_adc_new_0_1 (user.org:user:myip_adc_new:1.0) from (Rev. 2) to (Rev. 3)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Wed Sep 10 13:57:01 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_adc_new_myip_adc_new_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of soc_adc_new_myip_adc_new_0_0 (user.org:user:myip_adc_new:1.0) from (Rev. 1) to (Rev. 2)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'soc_adc_new_myip_adc_new_0_0'. These changes may impact your design.
+
+
+-Upgrade has added port 'vauxn14'
+
+-Upgrade has added port 'vauxn6'
+
+-Upgrade has added port 'vauxp14'
+
+-Upgrade has added port 'vauxp6'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Wed Sep 10 13:46:03 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_adc_new_myip_adc_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of soc_adc_new_myip_adc_0_0 (user.org:user:myip_adc:1.0) from (Rev. 8) to (Rev. 9)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Wed Sep 10 13:42:01 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_adc_new_myip_adc_0_4'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of soc_adc_new_myip_adc_0_4 (user.org:user:myip_adc:1.0) from (Rev. 7) to (Rev. 8)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Wed Sep 10 13:39:55 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_adc_new_myip_adc_0_3'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of soc_adc_new_myip_adc_0_3 (user.org:user:myip_adc:1.0) from (Rev. 6) to (Rev. 7)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Wed Sep 10 13:37:34 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_adc_new_myip_adc_0_3'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of soc_adc_new_myip_adc_0_3 (user.org:user:myip_adc:1.0) from (Rev. 5) to (Rev. 6)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Wed Sep 10 13:34:45 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_adc_new_myip_adc_0_2'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of soc_adc_new_myip_adc_0_2 (user.org:user:myip_adc:1.0) from (Rev. 4) to (Rev. 5)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Wed Sep 10 13:32:56 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_adc_new_myip_adc_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of soc_adc_new_myip_adc_0_1 (user.org:user:myip_adc:1.0) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Wed Sep 10 13:28:44 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_adc_new_myip_adc_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of soc_adc_new_myip_adc_0_0 (user.org:user:myip_adc:1.0) from (Rev. 2) to (Rev. 3)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Wed Sep 10 09:17:32 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_adc_fnd_myip_adc_cnt_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of soc_adc_fnd_myip_adc_cnt_0_0 (user.org:user:myip_adc_cnt:1.0) from (Rev. 4) to (Rev. 5)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'soc_adc_fnd_myip_adc_cnt_0_0'. These changes may impact your design.
+
+
+-Upgrade has added port 'vauxn14'
+
+-Upgrade has added port 'vauxn6'
+
+-Upgrade has added port 'vauxp14'
+
+-Upgrade has added port 'vauxp6'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Tue Sep  9 19:55:21 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_adc_fnd_myip_adc_cnt_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of soc_adc_fnd_myip_adc_cnt_0_0 (user.org:user:myip_adc_cnt:1.0) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Tue Sep  9 19:38:38 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_adc_fnd_myip_adc_cnt_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of soc_adc_fnd_myip_adc_cnt_0_0 (user.org:user:myip_adc_cnt:1.0 (Rev. 3)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Tue Sep  9 19:36:58 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_adc_fnd_myip_adc_cnt_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of soc_adc_fnd_myip_adc_cnt_0_0 (user.org:user:myip_adc_cnt:1.0) from (Rev. 2) to (Rev. 3)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'soc_adc_fnd_myip_adc_cnt_0_0'. These changes may impact your design.
+
+
+-Upgraded port order differs after port 's00_axi_aclk'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Tue Sep  9 19:17:13 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_adc_fnd_myip_adc_cnt_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of soc_adc_fnd_myip_adc_cnt_0_0 (user.org:user:myip_adc_cnt:1.0) from (Rev. 1) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Tue Sep  9 09:46:52 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_lcd_dht11_myip_lcd_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of soc_lcd_dht11_myip_lcd_0_0 (user.org:user:myip_lcd:1.0) from (Rev. 4) to (Rev. 5)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Tue Sep  9 09:46:49 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'i2c_dht11_myip_lcd_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of i2c_dht11_myip_lcd_0_0 (user.org:user:myip_lcd:1.0) from (Rev. 4) to (Rev. 5)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Fri Sep  5 16:38:45 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_lcd_dht11_myip_lcd_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of soc_lcd_dht11_myip_lcd_0_0 (user.org:user:myip_lcd:1.0) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Fri Sep  5 16:35:31 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'soc_lcd_dht11_myip_lcd_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of soc_lcd_dht11_myip_lcd_0_0 (user.org:user:myip_lcd:1.0) from (Rev. 2) to (Rev. 3)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Fri Sep  5 12:05:42 2025
+| Host         : user11-B70TV-AN5TB8W running 64-bit Ubuntu 24.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'dht11_myip_dht11_tap_tap11_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of dht11_myip_dht11_tap_tap11_0_0 (user.org:user:myip_dht11_tap_tap11:1.0) from (Rev. 2) to (Rev. 3)
+

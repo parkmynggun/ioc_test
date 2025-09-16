@@ -1,0 +1,26 @@
+vhdl xil_defaultlib  \
+"../../../bd/soc_adc_fnd/ip/soc_adc_fnd_proc_sys_reset_0_0/sim/soc_adc_fnd_proc_sys_reset_0_0.vhd" \
+"../../../bd/soc_adc_fnd/ip/soc_adc_fnd_microblaze_riscv_0_0/sim/soc_adc_fnd_microblaze_riscv_0_0.vhd" \
+"../../../bd/soc_adc_fnd/ip/soc_adc_fnd_dlmb_v10_0/sim/soc_adc_fnd_dlmb_v10_0.vhd" \
+"../../../bd/soc_adc_fnd/ip/soc_adc_fnd_ilmb_v10_0/sim/soc_adc_fnd_ilmb_v10_0.vhd" \
+"../../../bd/soc_adc_fnd/ip/soc_adc_fnd_dlmb_bram_if_cntlr_0/sim/soc_adc_fnd_dlmb_bram_if_cntlr_0.vhd" \
+"../../../bd/soc_adc_fnd/ip/soc_adc_fnd_ilmb_bram_if_cntlr_0/sim/soc_adc_fnd_ilmb_bram_if_cntlr_0.vhd" \
+"../../../bd/soc_adc_fnd/ip/soc_adc_fnd_mdm_1_0/sim/soc_adc_fnd_mdm_1_0.vhd" \
+"../../../bd/soc_adc_fnd/ip/soc_adc_fnd_axi_uartlite_0_1/sim/soc_adc_fnd_axi_uartlite_0_1.vhd" \
+"../../../bd/soc_adc_fnd/ip/soc_adc_fnd_axi_smc_0/bd_0/ip/ip_1/sim/bd_5efd_psr_aclk_0.vhd" \
+"../../../bd/soc_adc_fnd/ip/soc_adc_fnd_xadc_wiz_0_2/proc_common_v3_30_a/hdl/src/vhdl/soc_adc_fnd_xadc_wiz_0_2_conv_funs_pkg.vhd" \
+"../../../bd/soc_adc_fnd/ip/soc_adc_fnd_xadc_wiz_0_2/proc_common_v3_30_a/hdl/src/vhdl/soc_adc_fnd_xadc_wiz_0_2_proc_common_pkg.vhd" \
+"../../../bd/soc_adc_fnd/ip/soc_adc_fnd_xadc_wiz_0_2/proc_common_v3_30_a/hdl/src/vhdl/soc_adc_fnd_xadc_wiz_0_2_ipif_pkg.vhd" \
+"../../../bd/soc_adc_fnd/ip/soc_adc_fnd_xadc_wiz_0_2/proc_common_v3_30_a/hdl/src/vhdl/soc_adc_fnd_xadc_wiz_0_2_family_support.vhd" \
+"../../../bd/soc_adc_fnd/ip/soc_adc_fnd_xadc_wiz_0_2/proc_common_v3_30_a/hdl/src/vhdl/soc_adc_fnd_xadc_wiz_0_2_family.vhd" \
+"../../../bd/soc_adc_fnd/ip/soc_adc_fnd_xadc_wiz_0_2/proc_common_v3_30_a/hdl/src/vhdl/soc_adc_fnd_xadc_wiz_0_2_soft_reset.vhd" \
+"../../../bd/soc_adc_fnd/ip/soc_adc_fnd_xadc_wiz_0_2/proc_common_v3_30_a/hdl/src/vhdl/soc_adc_fnd_xadc_wiz_0_2_pselect_f.vhd" \
+"../../../bd/soc_adc_fnd/ip/soc_adc_fnd_xadc_wiz_0_2/axi_lite_ipif_v1_01_a/hdl/src/vhdl/soc_adc_fnd_xadc_wiz_0_2_address_decoder.vhd" \
+"../../../bd/soc_adc_fnd/ip/soc_adc_fnd_xadc_wiz_0_2/axi_lite_ipif_v1_01_a/hdl/src/vhdl/soc_adc_fnd_xadc_wiz_0_2_slave_attachment.vhd" \
+"../../../bd/soc_adc_fnd/ip/soc_adc_fnd_xadc_wiz_0_2/interrupt_control_v2_01_a/hdl/src/vhdl/soc_adc_fnd_xadc_wiz_0_2_interrupt_control.vhd" \
+"../../../bd/soc_adc_fnd/ip/soc_adc_fnd_xadc_wiz_0_2/axi_lite_ipif_v1_01_a/hdl/src/vhdl/soc_adc_fnd_xadc_wiz_0_2_axi_lite_ipif.vhd" \
+"../../../bd/soc_adc_fnd/ip/soc_adc_fnd_xadc_wiz_0_2/soc_adc_fnd_xadc_wiz_0_2_xadc_core_drp.vhd" \
+"../../../bd/soc_adc_fnd/ip/soc_adc_fnd_xadc_wiz_0_2/soc_adc_fnd_xadc_wiz_0_2_axi_xadc.vhd" \
+
+# Do not sort compile order
+nosort

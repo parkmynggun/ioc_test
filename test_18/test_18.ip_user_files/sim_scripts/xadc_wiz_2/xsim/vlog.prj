@@ -1,0 +1,7 @@
+verilog xil_defaultlib --include "/home/user11/tools/Vivado/2024.2/data/xilinx_vip/include" \
+"../../../../test_18.gen/sources_1/ip/xadc_wiz_2/xadc_wiz_2.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

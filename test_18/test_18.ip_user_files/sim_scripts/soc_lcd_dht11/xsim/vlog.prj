@@ -1,0 +1,82 @@
+verilog xil_defaultlib --include "/home/user11/tools/Vivado/2024.2/data/xilinx_vip/include" --include "../../../../test_18.gen/sources_1/bd/soc_lcd_dht11/ipshared/3cbc" --include "../../../../test_18.gen/sources_1/bd/soc_lcd_dht11/ipshared/f0b6/hdl/verilog" --include "../../../../test_18.gen/sources_1/bd/soc_lcd_dht11/ipshared/0127/hdl/verilog" --include "../../../../test_18.gen/sources_1/bd/soc_lcd_dht11/ipshared/ec67/hdl" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_clk_wiz_0/soc_lcd_dht11_clk_wiz_0_clk_wiz.v" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_clk_wiz_0/soc_lcd_dht11_clk_wiz_0.v" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_lmb_bram_1/sim/soc_lcd_dht11_lmb_bram_1.v" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/sim/bd_9313.v" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_0/sim/bd_9313_one_0.v" \
+
+sv xil_defaultlib --include "/home/user11/tools/Vivado/2024.2/data/xilinx_vip/include" --include "../../../../test_18.gen/sources_1/bd/soc_lcd_dht11/ipshared/3cbc" --include "../../../../test_18.gen/sources_1/bd/soc_lcd_dht11/ipshared/f0b6/hdl/verilog" --include "../../../../test_18.gen/sources_1/bd/soc_lcd_dht11/ipshared/0127/hdl/verilog" --include "../../../../test_18.gen/sources_1/bd/soc_lcd_dht11/ipshared/ec67/hdl" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_2/sim/bd_9313_arinsw_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_3/sim/bd_9313_rinsw_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_4/sim/bd_9313_awinsw_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_5/sim/bd_9313_winsw_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_6/sim/bd_9313_binsw_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_7/sim/bd_9313_aroutsw_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_8/sim/bd_9313_routsw_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_9/sim/bd_9313_awoutsw_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_10/sim/bd_9313_woutsw_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_11/sim/bd_9313_boutsw_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_12/sim/bd_9313_arni_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_13/sim/bd_9313_rni_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_14/sim/bd_9313_awni_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_15/sim/bd_9313_wni_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_16/sim/bd_9313_bni_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_17/sim/bd_9313_s00mmu_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_18/sim/bd_9313_s00tr_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_19/sim/bd_9313_s00sic_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_20/sim/bd_9313_s00a2s_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_21/sim/bd_9313_sarn_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_22/sim/bd_9313_srn_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_23/sim/bd_9313_sawn_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_24/sim/bd_9313_swn_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_25/sim/bd_9313_sbn_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_26/sim/bd_9313_m00s2a_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_27/sim/bd_9313_m00arn_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_28/sim/bd_9313_m00rn_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_29/sim/bd_9313_m00awn_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_30/sim/bd_9313_m00wn_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_31/sim/bd_9313_m00bn_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_32/sim/bd_9313_m00e_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_33/sim/bd_9313_m01s2a_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_34/sim/bd_9313_m01arn_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_35/sim/bd_9313_m01rn_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_36/sim/bd_9313_m01awn_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_37/sim/bd_9313_m01wn_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_38/sim/bd_9313_m01bn_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_39/sim/bd_9313_m01e_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_40/sim/bd_9313_m02s2a_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_41/sim/bd_9313_m02arn_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_42/sim/bd_9313_m02rn_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_43/sim/bd_9313_m02awn_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_44/sim/bd_9313_m02wn_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_45/sim/bd_9313_m02bn_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_46/sim/bd_9313_m02e_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_47/sim/bd_9313_m03s2a_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_48/sim/bd_9313_m03arn_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_49/sim/bd_9313_m03rn_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_50/sim/bd_9313_m03awn_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_51/sim/bd_9313_m03wn_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_52/sim/bd_9313_m03bn_0.sv" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/bd_0/ip/ip_53/sim/bd_9313_m03e_0.sv" \
+
+verilog xil_defaultlib --include "/home/user11/tools/Vivado/2024.2/data/xilinx_vip/include" --include "../../../../test_18.gen/sources_1/bd/soc_lcd_dht11/ipshared/3cbc" --include "../../../../test_18.gen/sources_1/bd/soc_lcd_dht11/ipshared/f0b6/hdl/verilog" --include "../../../../test_18.gen/sources_1/bd/soc_lcd_dht11/ipshared/0127/hdl/verilog" --include "../../../../test_18.gen/sources_1/bd/soc_lcd_dht11/ipshared/ec67/hdl" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_axi_smc_0/sim/soc_lcd_dht11_axi_smc_0.v" \
+"../../../bd/soc_lcd_dht11/ipshared/20b9/hdl/myip_dht11_tap_tap11_slave_lite_v1_0_S00_AXI.v" \
+"../../../bd/soc_lcd_dht11/ipshared/20b9/src/clock.v" \
+"../../../bd/soc_lcd_dht11/ipshared/20b9/src/countre.v" \
+"../../../bd/soc_lcd_dht11/ipshared/20b9/src/test.v" \
+"../../../bd/soc_lcd_dht11/ipshared/20b9/hdl/myip_dht11_tap_tap11.v" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_myip_dht11_tap_tap11_0_0/sim/soc_lcd_dht11_myip_dht11_tap_tap11_0_0.v" \
+"../../../bd/soc_lcd_dht11/ipshared/66e3/hdl/myip_fnd_slave_lite_v1_0_S00_AXI.v" \
+"../../../bd/soc_lcd_dht11/ipshared/66e3/src/test_top.v" \
+"../../../bd/soc_lcd_dht11/ipshared/66e3/hdl/myip_fnd.v" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_myip_fnd_0_0/sim/soc_lcd_dht11_myip_fnd_0_0.v" \
+"../../../bd/soc_lcd_dht11/ipshared/940a/hdl/myip_lcd_slave_lite_v1_0_S00_AXI.v" \
+"../../../bd/soc_lcd_dht11/ipshared/940a/hdl/myip_lcd.v" \
+"../../../bd/soc_lcd_dht11/ip/soc_lcd_dht11_myip_lcd_0_0/sim/soc_lcd_dht11_myip_lcd_0_0.v" \
+"../../../bd/soc_lcd_dht11/sim/soc_lcd_dht11.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

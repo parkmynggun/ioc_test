@@ -1,0 +1,22 @@
+verilog xil_defaultlib --include "/home/user11/tools/Vivado/2024.2/data/xilinx_vip/include" --include "../../../../test_18.gen/sources_1/bd/stop_watch_intc/ipshared/3cbc" --include "../../../../test_18.gen/sources_1/bd/stop_watch_intc/ipshared/ec67/hdl" \
+"../../../bd/stop_watch_intc/ip/stop_watch_intc_clk_wiz_0/stop_watch_intc_clk_wiz_0_clk_wiz.v" \
+"../../../bd/stop_watch_intc/ip/stop_watch_intc_clk_wiz_0/stop_watch_intc_clk_wiz_0.v" \
+"../../../bd/stop_watch_intc/ip/stop_watch_intc_lmb_bram_0/sim/stop_watch_intc_lmb_bram_0.v" \
+"../../../bd/stop_watch_intc/ip/stop_watch_intc_microblaze_riscv_0_axi_periph_imp_xbar_0/sim/stop_watch_intc_microblaze_riscv_0_axi_periph_imp_xbar_0.v" \
+"../../../bd/stop_watch_intc/ip/stop_watch_intc_microblaze_riscv_0_xlconcat_0/sim/stop_watch_intc_microblaze_riscv_0_xlconcat_0.v" \
+"../../../bd/stop_watch_intc/ipshared/e126/hdl/myip_stop_watch_slave_lite_v1_0_S00_AXI.v" \
+"../../../bd/stop_watch_intc/ipshared/e126/src/test.v" \
+"../../../bd/stop_watch_intc/ipshared/e126/src/test_top.v" \
+"../../../bd/stop_watch_intc/ipshared/e126/hdl/myip_stop_watch.v" \
+"../../../bd/stop_watch_intc/ip/stop_watch_intc_myip_stop_watch_0_0/sim/stop_watch_intc_myip_stop_watch_0_0.v" \
+"../../../bd/stop_watch_intc/ipshared/940a/hdl/myip_lcd_slave_lite_v1_0_S00_AXI.v" \
+"../../../bd/stop_watch_intc/ipshared/940a/src/clock.v" \
+"../../../bd/stop_watch_intc/ipshared/940a/src/countre.v" \
+"../../../bd/stop_watch_intc/ipshared/940a/hdl/myip_lcd.v" \
+"../../../bd/stop_watch_intc/ip/stop_watch_intc_myip_lcd_0_0/sim/stop_watch_intc_myip_lcd_0_0.v" \
+"../../../bd/stop_watch_intc/sim/stop_watch_intc.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
